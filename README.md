@@ -12,7 +12,7 @@ Problem Statement:
 6. Host the website at 000webhost, github.io, heroku app or any other free  hosting provider. Check in code in gitlab.
 
 Technologies used:
-For frontend: HTML5, CSS3, JavaScript
-For Payment Gateway: Razorpay
-For Testing: Tested using Sandbox/Third party application
-For Hosting: Deployed on “github.io”
+1. For frontend: HTML5, CSS3, JavaScript
+2. For Payment Gateway: Razorpay
+3. For Testing: Tested using Sandbox/Third party application
+4. For Hosting: Deployed on “github.io”
